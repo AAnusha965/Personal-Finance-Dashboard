@@ -1,0 +1,33 @@
+Date	Month	Category	Sub_Category	Amount	Payment_Mode
+01-01-2025	Jan	Food	Groceries	1200	UPI
+03-01-2025	Jan	Transport	Bus	300	Cash
+05-01-2025	Jan	Shopping	Clothes	1500	Card
+07-01-2025	Jan	Food	Dining	800	UPI
+10-01-2025	Jan	Entertainment	Movie	400	UPI
+12-01-2025	Jan	Utilities	Electricity Bill	1100	UPI
+15-01-2025	Jan	Food	Groceries	950	UPI
+18-01-2025	Jan	Health	Medicine	600	Cash
+20-01-2025	Jan	Transport	Fuel	900	Card
+25-01-2025	Jan	Shopping	Footwear	1300	Card
+
+02-02-2025	Feb	Food	Groceries	1400	UPI
+04-02-2025	Feb	Transport	Auto	250	Cash
+06-02-2025	Feb	Shopping	Accessories	700	Card
+08-02-2025	Feb	Food	Dining	900	UPI
+11-02-2025	Feb	Entertainment	OTT Subscription	500	Card
+13-02-2025	Feb	Utilities	Internet Bill	999	UPI
+16-02-2025	Feb	Food	Groceries	1000	UPI
+18-02-2025	Feb	Health	Doctor Visit	800	Cash
+21-02-2025	Feb	Transport	Fuel	850	Card
+24-02-2025	Feb	Shopping	Cosmetics	1200	Card
+
+01-03-2025	Mar	Food	Groceries	1500	UPI
+03-03-2025	Mar	Transport	Bus	300	Cash
+05-03-2025	Mar	Shopping	Clothes	1800	Card
+07-03-2025	Mar	Food	Dining	950	UPI
+10-03-2025	Mar	Entertainment	Concert	1200	Card
+12-03-2025	Mar	Utilities	Water Bill	400	UPI
+15-03-2025	Mar	Food	Groceries	1100	UPI
+17-03-2025	Mar	Health	Medicine	700	Cash
+20-03-2025	Mar	Transport	Fuel	950	Card
+25-03-2025	Mar	Shopping	Online Purchase	1600	Card
